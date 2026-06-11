@@ -2,18 +2,6 @@
 
 **Objetivo:** Desenvolver uma aplicação web front-end utilizando HTML, CSS (Bootstrap) e JavaScript Vanilla, com foco em manipulação de DOM, consumo de API e persistência de dados no navegador.
 
-~~~html
-<div>
-  <p>Oi gente</p>
-</div>
-~~~
-
-~~~java
-while(x < 5) {
-  System.out.println("sssfkl");
-  console.log(x)
-}
-~~~
 
 ## INTEGRANTES GRUPO:
 
